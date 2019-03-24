@@ -1,0 +1,11 @@
+C:\Users\ShaneO'Moore\shaneiadt-git\dotnet-core-rest-client\bin\Debug\netcoreapp2.1\dotnet-core-rest-client.deps.json
+C:\Users\ShaneO'Moore\shaneiadt-git\dotnet-core-rest-client\bin\Debug\netcoreapp2.1\dotnet-core-rest-client.runtimeconfig.json
+C:\Users\ShaneO'Moore\shaneiadt-git\dotnet-core-rest-client\bin\Debug\netcoreapp2.1\dotnet-core-rest-client.runtimeconfig.dev.json
+C:\Users\ShaneO'Moore\shaneiadt-git\dotnet-core-rest-client\bin\Debug\netcoreapp2.1\dotnet-core-rest-client.dll
+C:\Users\ShaneO'Moore\shaneiadt-git\dotnet-core-rest-client\bin\Debug\netcoreapp2.1\dotnet-core-rest-client.pdb
+C:\Users\ShaneO'Moore\shaneiadt-git\dotnet-core-rest-client\obj\Debug\netcoreapp2.1\dotnet-core-rest-client.csprojAssemblyReference.cache
+C:\Users\ShaneO'Moore\shaneiadt-git\dotnet-core-rest-client\obj\Debug\netcoreapp2.1\dotnet-core-rest-client.csproj.CoreCompileInputs.cache
+C:\Users\ShaneO'Moore\shaneiadt-git\dotnet-core-rest-client\obj\Debug\netcoreapp2.1\dotnet-core-rest-client.AssemblyInfoInputs.cache
+C:\Users\ShaneO'Moore\shaneiadt-git\dotnet-core-rest-client\obj\Debug\netcoreapp2.1\dotnet-core-rest-client.AssemblyInfo.cs
+C:\Users\ShaneO'Moore\shaneiadt-git\dotnet-core-rest-client\obj\Debug\netcoreapp2.1\dotnet-core-rest-client.dll
+C:\Users\ShaneO'Moore\shaneiadt-git\dotnet-core-rest-client\obj\Debug\netcoreapp2.1\dotnet-core-rest-client.pdb

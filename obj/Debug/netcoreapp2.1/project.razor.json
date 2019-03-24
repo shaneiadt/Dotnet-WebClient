@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\ShaneO'Moore\\shaneiadt-git\\dotnet-core-rest-client\\dotnet-core-rest-client.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
